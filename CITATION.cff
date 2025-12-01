@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Harmonic Modulation as an Auditory Radar: A 5D Training Model for Acoustic FPV Drone Detection"
+authors:
+  - family-names: "Lozovyi"
+    given-names: "Oleksandr"
+date-released: 2025-12-01
+version: "0.1.0"
+type: report
+license: "MIT"
+abstract: >
+  Conceptual and technical framework for a low-cost auditory training system
+  that teaches soldiers to detect and localize FPV drones by sound, using a
+  5D cognitive model and Harmonic Modulation Control (HMC).
