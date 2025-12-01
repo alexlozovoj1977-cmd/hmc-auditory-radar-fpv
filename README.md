@@ -3,7 +3,8 @@
 **Гармонійна модуляція як «слуховий радар»: 5D-модель тренування розпізнавання FPV-дронів за звуком**
 
 Автор: **Олександр Лозовий**  
-Статус: Conceptual Framework / Technical Report
+Статус: Conceptual Framework / Technical Report  
+DOI: [10.5281/zenodo.17774342](https://doi.org/10.5281/zenodo.17774342)
 
 ---
 
@@ -62,10 +63,10 @@ Contents:
 
 - `HMC_Auditory_Radar_FPV_Framework.pdf`
 
-> Після присвоєння DOI на Zenodo/XenoDOS, можна додати його сюди:
+Офіційний DOI публікації:
 
 ```text
-DOI: 10.XXXX/zenodo.XXXXXXX
+DOI: 10.5281/zenodo.17774342
 ```
 
 ---
@@ -105,11 +106,9 @@ pdflatex HMC_Auditory_Radar_FPV_Framework.tex
   title       = {Harmonic Modulation as an Auditory Radar: A 5D Training Model for Acoustic FPV Drone Detection},
   institution = {Independent Research},
   year        = {2025},
-  note        = {Conceptual technical report and training framework},
+  doi         = {10.5281/zenodo.17774342}
 }
 ```
-
-(Після появи DOI – замінити `note` на `doi = {...}`)
 
 ---
 

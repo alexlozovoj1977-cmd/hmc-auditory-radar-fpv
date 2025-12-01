@@ -8,6 +8,7 @@ date-released: 2025-12-01
 version: "0.1.0"
 type: report
 license: "MIT"
+doi: "10.5281/zenodo.17774342"
 abstract: >
   Conceptual and technical framework for a low-cost auditory training system
   that teaches soldiers to detect and localize FPV drones by sound, using a
